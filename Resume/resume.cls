@@ -28,8 +28,10 @@
 \usepackage{hyperref}
 \RequirePackage{xcolor,sectsty}
 
-\definecolor{vmo}{RGB}{0,37,100}
-\newcommand{\makeColor}{\color{vmo}}
+% \definecolor{vmo}{RGB}{0,37,100}
+\definecolor{vht}{RGB}{234, 0, 41} %viettel high tech
+% \newcommand{\makeColor}{\color{vmo}}
+\newcommand{\makeColor}{\color{vht}}
 \hypersetup{
     colorlinks=true,
     linkcolor=blue,
